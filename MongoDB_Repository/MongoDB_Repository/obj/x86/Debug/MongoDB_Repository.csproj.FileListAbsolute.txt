@@ -1,0 +1,31 @@
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Bson.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Driver.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Form1.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Properties.Resources.resources
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.exe
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\mongodb\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.pdb
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.exe
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB_Repository.pdb
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Bson.dll
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\bin\Debug\MongoDB.Driver.dll
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.csproj.AssemblyReference.cache
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Properties.Resources.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.ServisFormRegistruj.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.csproj.GenerateResource.cache
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.csproj.CoreCompileInputs.cache
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.exe
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.pdb
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.ServisFormServis.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.ServisFormTehnickiPregled.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.ServisLoginServis.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.PolicijaUpravljajVozacima.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.Policija.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.PolicijaDodajAuto.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.PolicijaDodajBrod.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.PolicijaPretraziVozace.resources
+F:\GitHub-repos\MongoDBProject\MongoDB_Repository\MongoDB_Repository\obj\x86\Debug\MongoDB_Repository.PolicijaUpravljajServisima.resources
